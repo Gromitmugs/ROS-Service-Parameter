@@ -1,0 +1,6 @@
+float64 a11
+float64 a12
+float64 a21
+float64 a22
+---
+float64 result
